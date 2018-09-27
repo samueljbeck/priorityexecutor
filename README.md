@@ -21,4 +21,13 @@ or for a default of priority 5 use:
 	(applicationContext as ApplicationClass).appQue.run {
 		//code goes here
 	}
+	
+
+
+Add to your app:
+
+	implementation 'com.samueljbeck.utilities:priorityexecutor:0.0.3'
+	
+
+
 
